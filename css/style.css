@@ -9,7 +9,7 @@
                                 }
                                 
                                 .banner-area {
-                                    background-image: url(/images/donation15.webp);
+                                    background-image: url(images/donation15.webp);
                                     background-size: cover;
                                     background-repeat: no-repeat;
                                     width: 100%;
@@ -130,7 +130,7 @@
                                 
                                 #part-2 {
                                     background-color: mistyrose;
-                                    background-image: url(icons/shelter.png);
+                                    background-image: url(icons/bus.svg);
                                 }
                                 
                                 #part-3 {
