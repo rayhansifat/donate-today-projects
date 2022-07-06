@@ -55,7 +55,7 @@
                                 .content p {
                                     margin-top: 0;
                                     font-size: 20px;
-                                    color: rgb(231, 227, 227);
+                                    color: rgb(240, 236, 236);
                                 }
                                 
                                 .banner-area-2 p {
@@ -119,18 +119,18 @@
                                 }
                                 
                                 .partition h2 {
-                                    margin-top: 50px;
+                                    margin-top: 70px;
                                 }
                                 
                                 .partition p {
                                     margin-top: 40px;
-                                    margin-bottom: 40px;
+                                    margin-bottom: 30px;
                                     padding: 5px;
                                 }
                                 
                                 #part-2 {
+                                    border-bottom: 0;
                                     background-color: mistyrose;
-                                    background-image: url();
                                 }
                                 
                                 #part-3 {
@@ -219,6 +219,7 @@
                                     font-size: 60px;
                                     color: black;
                                     font-weight: 700;
+                                    justify-content: center;
                                 }
                                 
                                 .last-banner p {
